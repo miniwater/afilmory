@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:exif="https://afilmory.art/rss/exif">
+  <channel>
+    <title>Innei&#39;s Afilmory</title>
+    <link>https://afilmory.innei.in</link>
+    <description>Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Dec 2025 12:33:52 GMT</lastBuildDate>
+    <generator>Afilmory Feed Generator</generator>
+    <managingEditor>Innei (https://innei.in/)</managingEditor>
+    <exif:version>1.1</exif:version>
+    <exif:protocol>afilmory-rss-exif</exif:protocol>
+
+  </channel>
+</rss>

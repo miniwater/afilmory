@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:exif="https://afilmory.art/rss/exif">
   <channel>
-    <title>Innei&#39;s Afilmory</title>
-    <link>https://afilmory.innei.in</link>
+    <title>毛毛虫图库</title>
+    <link>https://miniwater.github.io/afilmory</link>
     <description>Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Dec 2025 12:33:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 12:45:03 GMT</lastBuildDate>
     <generator>Afilmory Feed Generator</generator>
-    <managingEditor>Innei (https://innei.in/)</managingEditor>
+    <managingEditor>手里有只毛毛虫 (https://www.krjojo.com/)</managingEditor>
     <exif:version>1.1</exif:version>
     <exif:protocol>afilmory-rss-exif</exif:protocol>
 

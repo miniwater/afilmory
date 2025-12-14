@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/afilmory/sw.js', { scope: '/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/afilmory/sw.js', { scope: '/afilmory/' })})}

@@ -1,0 +1,29 @@
+{
+  "name": "手里有只毛毛虫",
+  "title": "手里有只毛毛虫",
+  "description": "号角声起 - 等你启航",
+  "url": "https://gallery.krjojo.com/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Miniwater",
+    "url": "https://www.krjojo.com/",
+    "avatar": "https://www.krjojo.com/wp-content/uploads/2025/02/毛毛虫2.avif"
+  },
+  "social": {
+    "github": "miniwater",
+    "twitter": ""
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator"
+}

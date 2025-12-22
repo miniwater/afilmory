@@ -12,7 +12,7 @@ export default defineBuilderConfig(() => ({
 
     provider: "local",
     basePath: "./apps/web/public/photos",
-    baseUrl: "/photos"
+    baseUrl: "/photos",
 
     // provider: 's3',
     // bucket: env.S3_BUCKET_NAME,

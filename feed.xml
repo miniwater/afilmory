@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:exif="https://afilmory.art/rss/exif">
   <channel>
-    <title>毛毛虫图库</title>
-    <link>https://miniwater.github.io/afilmory</link>
-    <description>Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.</description>
+    <title>手里有只毛毛虫</title>
+    <link>https://gallery.krjojo.com</link>
+    <description>号角声起 - 等你启航</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 04:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 10:01:05 GMT</lastBuildDate>
     <generator>Afilmory Feed Generator</generator>
-    <managingEditor>手里有只毛毛虫 (https://www.krjojo.com/)</managingEditor>
+    <managingEditor>Miniwater (https://www.krjojo.com/)</managingEditor>
     <exif:version>1.1</exif:version>
     <exif:protocol>afilmory-rss-exif</exif:protocol>
     <item>
       <title>毛毛虫</title>
-      <link>https://miniwater.github.io/afilmory/%E6%AF%9B%E6%AF%9B%E8%99%AB</link>
+      <link>https://gallery.krjojo.com/%E6%AF%9B%E6%AF%9B%E8%99%AB</link>
       <guid isPermaLink="false">毛毛虫</guid>
-      <pubDate>Mon, 15 Dec 2025 04:17:22 GMT</pubDate>
+      <pubDate>Mon, 22 Dec 2025 10:00:36 GMT</pubDate>
       <description><![CDATA[毛毛虫]]></description>
 
-      <enclosure url="https://miniwater.github.io/afilmory/afilmory/thumbnails/毛毛虫.jpg" type="image/jpeg" length="0" />
+      <enclosure url="https://gallery.krjojo.com/thumbnails/毛毛虫.jpg" type="image/jpeg" length="0" />
       <exif:imageWidth>500</exif:imageWidth>
       <exif:imageHeight>500</exif:imageHeight>
-      <exif:dateTaken>2025-12-15T04:17:22.959Z</exif:dateTaken>
+      <exif:dateTaken>2025-12-22T10:00:36.596Z</exif:dateTaken>
     </item>
   </channel>
 </rss>
